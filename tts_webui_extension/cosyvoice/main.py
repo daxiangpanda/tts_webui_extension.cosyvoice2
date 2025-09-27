@@ -20,7 +20,7 @@ def extension__tts_generation_webui():
 
 
 def cosyvoice_ui():
-    from extension_cosyvoice.gradio_app import ui_core
+    from .gradio_app import ui_core
 
     ui_core()
 

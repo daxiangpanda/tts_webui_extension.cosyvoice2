@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
     name="tts_webui_extension.cosyvoice",
     packages=setuptools.find_namespace_packages(),
-    version="0.1.6",
+    version="0.1.7",
     author="rsxdalv",
     description="CosyVoice: A TTS solution for fluent and natural speech synthesis.",
     url="https://github.com/rsxdalv/tts_webui_extension.cosyvoice",
